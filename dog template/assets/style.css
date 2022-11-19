@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+body{
+    background-color: rgb(245, 245, 245);
+}
+
+.nav-bar{
+    border-bottom: 2px solid rgb(236, 162, 1);
+    box-shadow: 4px 0px 4px 0px rgb(236, 162, 1);
+}
+
+.head{
+
+    margin:50px 50px;
+}
+
+.headimg{
+    
+    height: 480px;
+
+}
+
+.svgup{
+    margin-top: -160px;
+
+}
+
+
+
+
+.par{
+    display: flex;
+    margin-left: 40px;
+    letter-spacing: 1px;
+
+}
+
+.img-card{
+    width:400px;
+    height: 300px;
+    
+}
+
+.section-2{
+
+background-color: rgb(255, 255, 255);
+box-shadow: 4px 4px 4px 4px rgba(226, 174, 2, 0.3);
+border-radius: 8px;
+
+}
+
+footer{
+    border-top:  2px solid rgb(236, 162, 1);
+    box-shadow: 4px 0px 4px 0px rgb(236, 162, 1);
+}
+
+.img-team{
+    width: 500px;
+    height: 350px;
+    border-radius: 40px;
+
+}
+
+svg{
+    display: flex;
+    
+}
